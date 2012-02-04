@@ -1,0 +1,33 @@
+2
+
+20
+!"·$%!"·$%!!"$·!"·$!"·$·$&%·%&/%
+Candidato 2
+Candidato 3
+Candidato 4
+Candidato 5
+Candidato 6
+Candidato 7
+Candidato 8
+Candidato 9
+Candidato 10
+Candidato 11
+Candidato 12
+Candidato 13
+Candidato 14
+Candidato 15
+Candidato 16
+Candidato 17
+Candidato 18
+Candidato 19
+Candidato 20
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+
+3
+John Doe
+Jane Smith
+Sirhan Sirhan
+1 2 3
+2 1 3
+3 2 1
